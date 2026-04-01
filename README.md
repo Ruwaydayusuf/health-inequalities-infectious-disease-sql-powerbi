@@ -6,8 +6,8 @@ This project investigates how infectious disease metrics vary across the UK, wit
 
 ## 2. The Objective
 
-Analyse infectious disease trends over time
-Compare patterns across regions and demographic groups
-Identify potential health inequalities
-Generate insights to support public health decision-making
-Present findings through an interactive dashboard
+- Analyse infectious disease trends over time
+- Compare patterns across regions and demographic groups
+- Identify potential health inequalities
+- Generate insights to support public health decision-making
+- Present findings through an interactive dashboard
